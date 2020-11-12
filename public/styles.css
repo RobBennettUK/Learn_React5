@@ -1,0 +1,14 @@
+.heading {
+  color: red;
+}
+
+ul {
+  color: blue;
+}
+
+.food-image {
+  width: 100px;
+  height: 100px;
+}
+
+/* The convention is to kebab-case with CSS */
